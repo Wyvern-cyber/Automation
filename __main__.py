@@ -1,5 +1,4 @@
 # TaskAutomation
-# This is a python script made by @somePythonProgrammer 
 # for a WhiteHat Junior project.
 
 # imports
